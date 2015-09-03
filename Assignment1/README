@@ -1,0 +1,18 @@
+Choose a program of your choice like addition of two numbers. Write the assembly code in 32-bit and 64-bit assembly languages. Write an interpreter program in any preferred language (C,CPP,Java) which will translate the 32-bit assembly program into 64-bit assembly program.
+
+a.c is a simple program which performs addition of two numbers
+
+File in_32 contains the 32-bit assembly level code for a.c
+
+file.cpp contains the Interpreter code
+
+In the interpreter program, in_32 is the input file
+and out_64 is the output file
+
+Compiling interpreter
+Executed the interpreter
+
+The output is 64 bit assembly file in out_64
+
+
+Done !!!
